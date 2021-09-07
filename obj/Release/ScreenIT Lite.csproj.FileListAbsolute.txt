@@ -1,0 +1,38 @@
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\App.xbf
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\MainPage.xbf
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\ScreenIT Lite.xr.xml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\ScreenIT Lite.exe
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\ScreenIT Lite.pdb
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\resources.pri
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\AppxManifest.xml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\ScreenIT Lite.build.appxrecipe
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\App.g.i.cs
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\App.g.cs
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\MainPage.g.i.cs
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\MainPage.g.cs
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\XamlTypeInfo.g.cs
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\App.xaml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\MainPage.xaml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\App.xbf
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\MainPage.xbf
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\XamlSaveStateFile.xml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\ScreenIT Lite.exe
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\ScreenIT Lite.pdb
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\priconfig.xml
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\priconfig.xml.intermediate
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\layout.resfiles
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\layout.resfiles.intermediate
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\resources.resfiles
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\resources.resfiles.intermediate
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\pri.resfiles
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\pri.resfiles.intermediate
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\qualifiers.txt
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\qualifiers.txt.intermediate
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\userpc\documents\visual studio 2013\Projects\ScreenIT Lite\ScreenIT Lite\obj\Release\ProjectArchitectures.txt
